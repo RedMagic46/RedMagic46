@@ -10,6 +10,6 @@
 ---
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/naufal-muammar-764056328/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ufalnaaa/" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/naufal-muammar-764056328/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/ufalnaaa/" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
