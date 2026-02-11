@@ -1,4 +1,4 @@
-# Hi 👋! My name is Naufal Muammar and I'm a Lab Assistant Candidate
+# Hi 👋! My name is Naufal Muammar
 
 ![languages graph](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMagic46&layout=compact&theme=tokyonight)
 
