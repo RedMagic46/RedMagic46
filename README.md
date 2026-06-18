@@ -1,15 +1,20 @@
-# Hi! My name is Naufal Muammar
+# Naufal Muammar
 
-![languages graph](https://github-readme-stats.vercel.app/api/top-langs/?username=RedMagic46&layout=compact&theme=tokyonight)
+Building software and occasionally breaking things.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,react,figma,linux,bash,git,github,vscode,statsmodels" />
+Currently studying Informatics at Universitas Muhammadiyah Malang.
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedMagic46&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+### Technologies
 
----
-
-<p align="left">
-<a href="https://www.linkedin.com/in/naufal-muammar-764056328/" target="blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/ufalnaaa/" target="blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,react,nextjs,mysql,git,linux,figma" />
 </p>
+
+### Contact
+
+- LinkedIn: https://linkedin.com/in/naufal-muammar-764056328
+- Instagram: https://instagram.com/ufalnaaa
