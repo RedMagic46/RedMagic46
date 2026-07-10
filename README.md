@@ -2,7 +2,7 @@
 
 Building software and occasionally breaking things.
 
-Currently studying Informatics at Universitas Muhammadiyah Malang.
+"When yh" when when
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedMagic46&layout=compact&theme=tokyonight&hide_border=true" />
@@ -11,7 +11,7 @@ Currently studying Informatics at Universitas Muhammadiyah Malang.
 ### Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,react,nextjs,mysql,git,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,react,nextjs,mysql,git,figma" />
 </p>
 
 ### Contact
